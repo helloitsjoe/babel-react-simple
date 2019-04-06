@@ -3,4 +3,4 @@ const makeBabelConfig = () => ({
   plugins: ['@babel/proposal-class-properties'],
 });
 
-module exports = makeBabelConfig;
+module.exports = makeBabelConfig;
