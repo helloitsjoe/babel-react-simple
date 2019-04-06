@@ -1,7 +1,7 @@
 {
   "name": "babel-react-simple",
   "version": "1.0.0",
-  "description": "Babel React config",
+  "description": "Babel React Config - Simple defaults, extendable options",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

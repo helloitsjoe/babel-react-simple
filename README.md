@@ -1,2 +1,3 @@
 # babel-react-simple
-Babel React config
+
+Babel React Config - Simple defaults, extendable options
