@@ -1,6 +1,6 @@
 {
   "name": "babel-react-simple",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Babel React Config - Simple defaults, extendable options",
   "main": "index.js",
   "scripts": {
