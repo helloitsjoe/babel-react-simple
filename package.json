@@ -4,7 +4,7 @@
   "description": "Babel React Config - Simple defaults, extendable options",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest --coverage"
   },
   "repository": {
     "type": "git",
@@ -26,5 +26,9 @@
   "files": [
     "./index.js",
     "README.md"
-  ]
+  ],
+  "devDependencies": {
+    "jest": "^24.7.1",
+    "prettier": "^1.17.0"
+  }
 }
