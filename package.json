@@ -28,6 +28,7 @@
     "README.md"
   ],
   "devDependencies": {
-    "jest": "^24.8.0"
+    "jest": "^24.7.1",
+    "prettier": "^1.17.0"
   }
 }
